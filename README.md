@@ -27,9 +27,11 @@ Create a Fantasy Fighting Text-Based Game and:
 ---
 ## My Approach
 ---
-### UML Diagram
+### UML Diagram / Object-Oriented Solution
 I started by creating the following UML Diagram
 
 ![DmytroBondar_FantasyFightingGame_UML(3)](https://user-images.githubusercontent.com/59861277/163662888-178e8fbf-39d8-4ac5-9e98-7845bed94f8b.png)
+
+All the classes eventually connect in the class `Game`, which connects `Character`, `Arena`, and the `Shop` classes.
 
 ---
