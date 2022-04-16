@@ -64,7 +64,7 @@ All the classes eventually connect in the class `Game`, which connects `Characte
 <img width="254" alt="Screen Shot 2022-04-15 at 11 02 47 PM" src="https://user-images.githubusercontent.com/59861277/163663813-83a6f69c-e17c-4ef3-a114-3fddac35e2b3.png">
 
 * AFTER purchasing weapon and armor
-<img width="311" alt="Screen Shot 2022-04-15 at 11 14 54 PM" src="https://user-images.githubusercontent.com/59861277/163664148-e153fe70-2b86-4e26-837c-8b4c2e7aa2d0.png">
+<img width="280" alt="Screen Shot 2022-04-15 at 11 18 04 PM" src="https://user-images.githubusercontent.com/59861277/163664232-e945b340-1b66-4bc3-97bb-c54af8cc6201.png">
   
 ---
 ##### Shop
