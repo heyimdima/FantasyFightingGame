@@ -93,10 +93,17 @@ All the classes eventually connect in the class `Game`, which connects `Characte
 <img width="359" alt="Screen Shot 2022-04-15 at 11 20 09 PM" src="https://user-images.githubusercontent.com/59861277/163664281-2c2b88cc-61fa-4d72-82fc-e10e36678b8e.png">
 
 * Fight certain `Enemy`, for example the `Ghost` and get rewarded in case they defeat that enemy.
-*After the fight, the Character health gets reset back to 100
+* Note: after the fight, the `Character` health gets reset back to 100
 <img width="408" alt="Screen Shot 2022-04-15 at 11 21 07 PM" src="https://user-images.githubusercontent.com/59861277/163664301-6f877040-4358-4b60-a018-bc8fa95232c9.png">
 
 * or the user can choose to come back to the Main Menu.
 
 ---
 ##### Save and Quit
+* IF the user decides to "Save and Quit" the game, the `Character` progress will be saved to a file, and the objects of the game will be destroyed.
+<img width="414" alt="Screen Shot 2022-04-15 at 11 23 57 PM" src="https://user-images.githubusercontent.com/59861277/163664383-71a335e9-3304-48bb-ba5a-eecb74a95ce5.png">
+
+---
+## What I Learned
+I learned a lot about inheritance with this game, and got to practice my devepoling skills in C++.
+
