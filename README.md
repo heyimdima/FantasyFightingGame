@@ -57,11 +57,35 @@ All the classes eventually connect in the class `Game`, which connects `Characte
 * Main Menu has the following options:
 <img width="329" alt="Screen Shot 2022-04-15 at 10 47 51 PM" src="https://user-images.githubusercontent.com/59861277/163663409-69e6db74-8d42-4ae2-9de3-7eec2db7393f.png">
 
-  * Character Info Sheet
-  lalalal
-  * Shop
-  testtest
-  * Save and Quit
-  some text
+---
+##### Character Info Sheet
+
+* BEFORE purchasing any weapons/armor
+<img width="254" alt="Screen Shot 2022-04-15 at 11 02 47 PM" src="https://user-images.githubusercontent.com/59861277/163663813-83a6f69c-e17c-4ef3-a114-3fddac35e2b3.png">
+
+* AFTER purchasing weapon and armor
+<img width="311" alt="Screen Shot 2022-04-15 at 11 14 54 PM" src="https://user-images.githubusercontent.com/59861277/163664148-e153fe70-2b86-4e26-837c-8b4c2e7aa2d0.png">
+  
+---
+##### Shop
+* When the user enters shop, they will see the following Shop Menu
+<img width="292" alt="Screen Shot 2022-04-15 at 11 06 21 PM" src="https://user-images.githubusercontent.com/59861277/163663904-f3fb8410-5275-43ca-8097-8b1952e534cf.png">
+
+* From here user can choose what to shop for, `Weapons` or `Armor`, or go back to the main menu.
+
+* IF the user chooses weapons, they will see all the weapons avaliable to be purchased
+* And the user will be able to choose which weapon they would like to buy
+* Also, if user decices to go back to the Shop Menu, without buying anything, they have the option to do so.
+<img width="416" alt="Screen Shot 2022-04-15 at 11 10 38 PM" src="https://user-images.githubusercontent.com/59861277/163664020-8b9a0b48-e7be-49a8-9fb1-e43d3e3986dd.png">
+
+* IF the user chooses armor, they will see all the armor avaliable to be purchased
+* And the user will be able to choose which armor they would like to buy
+* Also, if the user decices to go back to the Shop Menu, without buying anything, they have the option to do so.
+<img width="415" alt="Screen Shot 2022-04-15 at 11 12 10 PM" src="https://user-images.githubusercontent.com/59861277/163664061-9295261c-bca6-4f2c-9cb1-16ea7c7a7525.png">
+
+---
+##### Arena
 
 
+---
+##### Save and Quit
