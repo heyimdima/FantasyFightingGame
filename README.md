@@ -57,6 +57,6 @@ All the classes eventually connect in the class `Game`, which connects `Characte
 * Main Menu has the following options:
 <img width="329" alt="Screen Shot 2022-04-15 at 10 47 51 PM" src="https://user-images.githubusercontent.com/59861277/163663409-69e6db74-8d42-4ae2-9de3-7eec2db7393f.png">
 *   Test
-
+*   Character
 
 
