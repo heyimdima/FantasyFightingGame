@@ -85,7 +85,18 @@ All the classes eventually connect in the class `Game`, which connects `Characte
 
 ---
 ##### Arena
+* When the user enters arena, they will see the following Arena Menu
+<img width="277" alt="Screen Shot 2022-04-15 at 11 19 24 PM" src="https://user-images.githubusercontent.com/59861277/163664263-254e1950-8975-4d41-8578-24c18e264f09.png">
 
+
+* From the Arena Menu, the user can View Enemies:
+<img width="359" alt="Screen Shot 2022-04-15 at 11 20 09 PM" src="https://user-images.githubusercontent.com/59861277/163664281-2c2b88cc-61fa-4d72-82fc-e10e36678b8e.png">
+
+* Fight certain `Enemy`, for example the `Ghost` and get rewarded in case they defeat that enemy.
+* *After the fight, the Character health gets reset back to 100
+<img width="408" alt="Screen Shot 2022-04-15 at 11 21 07 PM" src="https://user-images.githubusercontent.com/59861277/163664301-6f877040-4358-4b60-a018-bc8fa95232c9.png">
+
+* or the user can choose to come back to the Main Menu.
 
 ---
 ##### Save and Quit
