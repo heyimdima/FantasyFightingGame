@@ -1,11 +1,6 @@
 # Fantasy Fighting Game
 
 ---
-## Overview
-This was the project I did for my CST-210 class, and this was the first time I had to make a project on this scale,
-and after getting it done I can still see some things that could be improved about it.
-
----
 ## Objective
 Create a Fantasy Fighting Text-Based Game and:
 * Utilize functions to decomposed complex tasks. 
